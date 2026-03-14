@@ -3,3 +3,4 @@ Minor style cleanup — 2025-11-21 22:29:21
 Refactor minor logic — 2025-12-31 20:03:20
 Chore: tidy up script — 2026-03-13 09:45:53
 Fix typo in documentation — 2026-03-13 09:46:36
+Update changelog — 2026-03-14 12:54:18
